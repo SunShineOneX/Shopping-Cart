@@ -1,11 +1,8 @@
 .App {
   text-align: center;
+  background-color: #61dafb;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -35,4 +32,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.first-Item {
+  text-align: left;
+}
+
+.checkout {
+  background-color: springgreen;
 }
