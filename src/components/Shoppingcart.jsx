@@ -84,8 +84,8 @@ import React, { Component } from 'react'
                     <div className="checkOut">
                         <h2>{itemTotalCount}</h2>
                         <h1>${cartSubTotal}</h1>
-                        <h2>Tax: {tax}</h2>
-                        <h1>Total: {total}</h1>
+                        <h2>Tax: ${tax}</h2>
+                        <h1>Total: ${total}</h1>
                     </div>
             </div>
         )
